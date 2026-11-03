@@ -5,10 +5,10 @@
 ### 🤖 About Me
 
 #### Physical AI · Robotics software | Imitation-learning data · Simulation · Sim-to-Real | Python · C++ · ROS 2 · MuJoCo<br>
-M.S. in electronics (optical R&D) → web planning → full-stack web team lead → robot software.<br>
+M.S. in Advanced Device Technology (optical R&D) → web planning → full-stack web team lead → robot software.<br>
 I connect simulation data, learned policies and real robots, and report each result with the conditions it was measured under.
 
-  🎓 Physical AI program (DAPIER Cohort 1), Dongguk University · 656 hours · Jul 6–Nov 4, 2026<br>
+  🎓 Physical AI program (DAPIER Cohort 1), Dongguk University · 656 hours · Jul 6–Nov 4, 2026 · completed<br>
   🧹 [SWEEPICK](https://github.com/Alpenj/sweepick) (team of 4): low-cost mobile dual-arm robot that clears floor objects. I led SIM data and domain randomization, Sim-to-Real integration and the ROS 2 base↔arm hand-off, and co-developed the ACT policy. First unattended end-to-end real run on Nov 1, 2026; real grasps 7/10 · 8/10 · 7/10 across three objects; SIM closed loop 132/143.<br>
   🚗 [deepThinkCar](https://github.com/Alpenj/DAPIER/tree/main/mini-projects/deepThinkCar_mini): stop gates and candidate-model evaluation; steering MAE 14.93° → 4.93° on the same split, held back from the car because the evaluation range was narrow.<br>
   ⏱️ [SyncGuard](https://julianjeonresume.netlify.app/#project-syncguard): time-alignment checks before training; valid alignment 33.6% → 98.2% and p95 skew 46.7 → 3.3 ms on synthetic jitter/drop data.<br>
@@ -46,7 +46,7 @@ I connect simulation data, learned policies and real robots, and report each res
 
 | Topic | Details |
 |---|---|
-| 📍 | Korea · Physical AI program completes Nov 4, 2026 · looking for robotics software roles in imitation learning, simulation, Sim-to-Real and robot integration |
+| 📍 | Korea · completed the Physical AI program on Nov 4, 2026 · looking for robotics software roles in imitation learning, simulation, Sim-to-Real and robot integration |
 | 🔧 | Hands-on: Python, C++, ROS 2 (topics, TF, URDF/RViz), Nav2 basics, MuJoCo, RoboTwin, LeRobot / ACT, PyTorch, OpenCV, Linux |
 | 🧪 | Recent work: dual-arm ACT data and evaluation, Sim-to-Real hand-off on SO-101 arms, ROS 2 base↔arm interface |
 | 🤖 | AI-native: coding agents (Claude Code, Codex) driven by specs, tests and acceptance checks; LLM features with rule-based fallbacks; personal automation agents |
