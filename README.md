@@ -55,6 +55,26 @@ I connect simulation data, learned policies and real robots, and report each res
 
 ---
 
+### 🌐 Open Source
+
+Windows bug fixes in widely used Python projects. I reproduce each bug on Korean Windows (cp949) and add a regression test that fails before the fix.
+
+| Project | Change | Status |
+|---|---|---|
+| [jupytext](https://github.com/jupytext/jupytext/pull/1679) | Use UTF-8 for the temporary files exchanged with marimo | [![PR 1679 status](https://img.shields.io/github/pulls/detail/state/jupytext/jupytext/1679?style=flat&label=)](https://github.com/jupytext/jupytext/pull/1679) |
+| [Panel](https://github.com/holoviz/panel/pull/9036) | Read and write user files as UTF-8 | [![PR 9036 status](https://img.shields.io/github/pulls/detail/state/holoviz/panel/9036?style=flat&label=)](https://github.com/holoviz/panel/pull/9036) |
+| [commitizen](https://github.com/commitizen-tools/commitizen/pull/2119) | Explicit encodings in `cz commit --edit` and `cz init` | [![PR 2119 status](https://img.shields.io/github/pulls/detail/state/commitizen-tools/commitizen/2119?style=flat&label=)](https://github.com/commitizen-tools/commitizen/pull/2119) |
+| [huggingface_hub](https://github.com/huggingface/huggingface_hub/pull/5310) | Read `--filter-from` files as UTF-8 | [![PR 5310 status](https://img.shields.io/github/pulls/detail/state/huggingface/huggingface_hub/5310?style=flat&label=)](https://github.com/huggingface/huggingface_hub/pull/5310) |
+| [Locust](https://github.com/locustio/locust/pull/3595) | Read locustfiles as UTF-8 before sending them to workers | [![PR 3595 status](https://img.shields.io/github/pulls/detail/state/locustio/locust/3595?style=flat&label=)](https://github.com/locustio/locust/pull/3595) |
+| [python-semantic-release](https://github.com/python-semantic-release/python-semantic-release/pull/1505) | Read the previous changelog as UTF-8 | [![PR 1505 status](https://img.shields.io/github/pulls/detail/state/python-semantic-release/python-semantic-release/1505?style=flat&label=)](https://github.com/python-semantic-release/python-semantic-release/pull/1505) |
+| [Salt](https://github.com/saltstack/salt/pull/70776) | Fix `network.connect` always failing with `proto=udp` | [![PR 70776 status](https://img.shields.io/github/pulls/detail/state/saltstack/salt/70776?style=flat&label=)](https://github.com/saltstack/salt/pull/70776) |
+| [xonsh](https://github.com/xonsh/xonsh/pull/6668) | Read the RC file, xontrib sources and the stash log as UTF-8 | [![PR 6668 status](https://img.shields.io/github/pulls/detail/state/xonsh/xonsh/6668?style=flat&label=)](https://github.com/xonsh/xonsh/pull/6668) |
+| [Apprise](https://github.com/caronc/apprise/pull/1887) | Read Discord, Slack, Telegram and Workflows templates as UTF-8 | [![PR 1887 status](https://img.shields.io/github/pulls/detail/state/caronc/apprise/1887?style=flat&label=)](https://github.com/caronc/apprise/pull/1887) |
+| [pipenv](https://github.com/pypa/pipenv/pull/6786) | Keep the downloaded requirements file for `pipenv install -r <url>` | [![PR 6786 status](https://img.shields.io/github/pulls/detail/state/pypa/pipenv/6786?style=flat&label=)](https://github.com/pypa/pipenv/pull/6786) |
+| [OpenJarvis](https://github.com/open-jarvis/OpenJarvis/pull/1273) | Format digest dates without glibc-only `strftime` flags | [![PR 1273 status](https://img.shields.io/github/pulls/detail/state/open-jarvis/OpenJarvis/1273?style=flat&label=)](https://github.com/open-jarvis/OpenJarvis/pull/1273) |
+
+---
+
 ### 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-genuine2027%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:genuine2027@gmail.com)
