@@ -72,6 +72,10 @@ Windows bug fixes in widely used Python projects. I reproduce each bug on Korean
 | [Apprise](https://github.com/caronc/apprise/pull/1887) | Read Discord, Slack, Telegram and Workflows templates as UTF-8 | [![PR 1887 status](https://img.shields.io/github/pulls/detail/state/caronc/apprise/1887?style=flat&label=)](https://github.com/caronc/apprise/pull/1887) |
 | [pipenv](https://github.com/pypa/pipenv/pull/6786) | Keep the downloaded requirements file for `pipenv install -r <url>` | [![PR 6786 status](https://img.shields.io/github/pulls/detail/state/pypa/pipenv/6786?style=flat&label=)](https://github.com/pypa/pipenv/pull/6786) |
 | [OpenJarvis](https://github.com/open-jarvis/OpenJarvis/pull/1273) | Format digest dates without glibc-only `strftime` flags | [![PR 1273 status](https://img.shields.io/github/pulls/detail/state/open-jarvis/OpenJarvis/1273?style=flat&label=)](https://github.com/open-jarvis/OpenJarvis/pull/1273) |
+| [mycli](https://github.com/dbcli/mycli/pull/2434) | Read and write `--batch` and `--checkpoint` files as UTF-8 | [![PR 2434 status](https://img.shields.io/github/pulls/detail/state/dbcli/mycli/2434?style=flat&label=)](https://github.com/dbcli/mycli/pull/2434) |
+| [trimesh](https://github.com/mikedh/trimesh/pull/2678) | Close the meshio temporary file before reading it on Windows | [![PR 2678 status](https://img.shields.io/github/pulls/detail/state/mikedh/trimesh/2678?style=flat&label=)](https://github.com/mikedh/trimesh/pull/2678) |
+| [Harlequin](https://github.com/tconbeer/harlequin/pull/1238) | Read DuckDB and SQLite init scripts as UTF-8 | [![PR 1238 status](https://img.shields.io/github/pulls/detail/state/tconbeer/harlequin/1238?style=flat&label=)](https://github.com/tconbeer/harlequin/pull/1238) |
+| [SABnzbd](https://github.com/sabnzbd/sabnzbd/pull/3693) | Read the password file as UTF-8, with a code page fallback | [![PR 3693 status](https://img.shields.io/github/pulls/detail/state/sabnzbd/sabnzbd/3693?style=flat&label=)](https://github.com/sabnzbd/sabnzbd/pull/3693) |
 
 ---
 
