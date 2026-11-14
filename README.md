@@ -76,6 +76,8 @@ Windows bug fixes in widely used Python projects. I reproduce each bug on Korean
 | [trimesh](https://github.com/mikedh/trimesh/pull/2678) | Close the meshio temporary file before reading it on Windows | [![PR 2678 status](https://img.shields.io/github/pulls/detail/state/mikedh/trimesh/2678?style=flat&label=)](https://github.com/mikedh/trimesh/pull/2678) |
 | [Harlequin](https://github.com/tconbeer/harlequin/pull/1238) | Read DuckDB and SQLite init scripts as UTF-8 | [![PR 1238 status](https://img.shields.io/github/pulls/detail/state/tconbeer/harlequin/1238?style=flat&label=)](https://github.com/tconbeer/harlequin/pull/1238) |
 | [SABnzbd](https://github.com/sabnzbd/sabnzbd/pull/3693) | Read the password file as UTF-8, with a code page fallback | [![PR 3693 status](https://img.shields.io/github/pulls/detail/state/sabnzbd/sabnzbd/3693?style=flat&label=)](https://github.com/sabnzbd/sabnzbd/pull/3693) |
+| [dirsearch](https://github.com/maurosoria/dirsearch/pull/1778) | Read wordlists and URL/proxy list files as UTF-8 | [![PR 1778 status](https://img.shields.io/github/pulls/detail/state/maurosoria/dirsearch/1778?style=flat&label=)](https://github.com/maurosoria/dirsearch/pull/1778) |
+| [ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager/pull/3520) | Read a node pack's `requirements.txt` with the encoding fallback when installing | [![PR 3520 status](https://img.shields.io/github/pulls/detail/state/Comfy-Org/ComfyUI-Manager/3520?style=flat&label=)](https://github.com/Comfy-Org/ComfyUI-Manager/pull/3520) |
 
 ---
 
