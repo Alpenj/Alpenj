@@ -80,6 +80,7 @@ Windows bug fixes in widely used Python projects. I reproduce each bug on Korean
 | [ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager/pull/3520) | Read a node pack's `requirements.txt` with the encoding fallback when installing | [![PR 3520 status](https://img.shields.io/github/pulls/detail/state/Comfy-Org/ComfyUI-Manager/3520?style=flat&label=)](https://github.com/Comfy-Org/ComfyUI-Manager/pull/3520) |
 | [manga-image-translator](https://github.com/zyddnys/manga-image-translator/pull/1189) | Read and write translation text files as UTF-8 | [![PR 1189 status](https://img.shields.io/github/pulls/detail/state/zyddnys/manga-image-translator/1189?style=flat&label=)](https://github.com/zyddnys/manga-image-translator/pull/1189) |
 | [semantic-router](https://github.com/aurelio-labs/semantic-router/pull/860) | Read and write router YAML/JSON files as UTF-8 | [![PR 860 status](https://img.shields.io/github/pulls/detail/state/aurelio-labs/semantic-router/860?style=flat&label=)](https://github.com/aurelio-labs/semantic-router/pull/860) |
+| [thonny](https://github.com/thonny/thonny/pull/3981) | Read `pyvenv.cfg` as UTF-8 so venvs under non-ASCII paths work on Windows | [![PR 3981 status](https://img.shields.io/github/pulls/detail/state/thonny/thonny/3981?style=flat&label=)](https://github.com/thonny/thonny/pull/3981) |
 
 ---
 
