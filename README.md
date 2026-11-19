@@ -5,14 +5,14 @@
 ### 🤖 About Me
 
 #### Physical AI · Robotics software | Imitation-learning data · Simulation · Sim-to-Real | Python · C++ · ROS 2 · MuJoCo<br>
-M.S. in Advanced Device Technology (optical R&D) → web planning → full-stack web team lead → robot software.<br>
-I connect simulation data, learned policies and real robots, and report each result with the conditions it was measured under.
+I earned an M.S. in Advanced Device Technology and worked in optical R&D, web planning and full-stack development as a team lead before moving into robotics software.<br>
+I work on training data in simulation and getting learned policies to run on real robots. For each test, I record the setup alongside the result.
 
   🎓 Physical AI program (DAPIER Cohort 1), Dongguk University · 656 hours · Jul 6–Nov 4, 2026 · completed<br>
-  🧹 [SWEEPICK](https://github.com/Alpenj/sweepick) (team of 4): low-cost mobile dual-arm robot that clears floor objects. I led SIM data and domain randomization, Sim-to-Real integration and the ROS 2 base↔arm hand-off, and co-developed the ACT policy. First unattended end-to-end real run on Nov 1, 2026; real grasps 7/10 · 8/10 · 7/10 across three objects; SIM closed loop 132/143.<br>
-  🚗 [deepThinkCar](https://github.com/Alpenj/DAPIER/tree/main/mini-projects/deepThinkCar_mini): stop gates and candidate-model evaluation; steering MAE 14.93° → 4.93° on the same split, held back from the car because the evaluation range was narrow.<br>
-  ⏱️ [SyncGuard](https://julianjeonresume.netlify.app/#project-syncguard): time-alignment checks before training; valid alignment 33.6% → 98.2% and p95 skew 46.7 → 3.3 ms on synthetic jitter/drop data.<br>
-  🧭 [ROS 2 practice](https://github.com/Alpenj/DAPIER/tree/main/ros2-practice): URDF, TF, SLAM and Nav2 on Jazzy, with Humble → Jazzy migration diagnostics.<br>
+  🧹 [SWEEPICK](https://github.com/Alpenj/sweepick) (team of 4): We built a low-cost mobile robot with two arms to clear objects from the floor. I led simulation data and domain randomization, Sim-to-Real integration and the ROS 2 handoff between the base and arms. I also co-developed the ACT policy. Our first unassisted full run on hardware was on Nov 1, 2026. Grasp results on hardware were 7/10, 8/10 and 7/10 across three objects. Closed-loop simulation finished 132/143.<br>
+  🚗 [deepThinkCar](https://github.com/Alpenj/DAPIER/tree/main/mini-projects/deepThinkCar_mini): Added stop conditions and evaluated a candidate steering model. Steering MAE fell from 14.93° to 4.93° on the same split. I held off on using the model in the car because the evaluation was narrow.<br>
+  ⏱️ [SyncGuard](https://julianjeonresume.netlify.app/#project-syncguard): Checked timestamp alignment before training. On synthetic data with jitter and dropped samples, valid alignment rose from 33.6% to 98.2% and p95 skew fell from 46.7 to 3.3 ms.<br>
+  🧭 [ROS 2 practice](https://github.com/Alpenj/DAPIER/tree/main/ros2-practice): Worked with URDF, TF, SLAM and Nav2 on Jazzy and diagnosed issues while migrating from Humble to Jazzy.<br>
   🏗️ [VERA](https://vera.builders/): interior/construction SCM platform built with coding agents in two weeks; LLM APIs with rule-based fallbacks and a Vitest/Playwright QA pipeline.<br>
   ⚽ [soccerhelper](https://github.com/Alpenj/soccerhelper): web/mobile MVP for amateur football teams (Next.js · Expo · Supabase).<br>
   💼 Earlier work: full-stack web team lead (React/Next.js, Supabase, Playwright automation), freelance full-stack (NestJS, payments and webhooks, GitHub Actions, Docker/EC2), optical transceiver R&D.
@@ -50,7 +50,7 @@ I connect simulation data, learned policies and real robots, and report each res
 | 📍 | Korea · completed the Physical AI program on Nov 4, 2026 · looking for robotics software roles in imitation learning, simulation, Sim-to-Real and robot integration |
 | 🔧 | Hands-on: Python, C++, ROS 2 (topics, TF, URDF/RViz), Nav2 basics, MuJoCo, Isaac Sim, RoboTwin, LeRobot / ACT, PyTorch, OpenCV, Linux |
 | 🧪 | Recent work: dual-arm ACT data and evaluation, Sim-to-Real hand-off on SO-101 arms, ROS 2 base↔arm interface |
-| 🤖 | AI-native: coding agents (Claude Code, Codex) driven by specs, tests and acceptance checks; LLM features with rule-based fallbacks; personal automation agents |
+| 🤖 | I give Claude Code and Codex task specs and acceptance criteria, then verify the code with tests. I also build LLM features with rule-based fallbacks and agents for personal automation. |
 | 📚 | Start here: [portfolio](https://julianjeonresume.netlify.app/) · [SWEEPICK](https://github.com/Alpenj/sweepick) · [mini projects & practice](https://github.com/Alpenj/DAPIER) |
 
 ---
