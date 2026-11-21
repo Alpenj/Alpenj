@@ -9,6 +9,15 @@ After earning an M.S. in Advanced Device Technology, I spent two years and four 
 
 For SWEEPICK, a four-person project in Dongguk University’s DAPIER Physical AI program, I was responsible for generating simulation training data and integrating the physical robot. I connected the mobile base and both arms through ROS 2 and developed and evaluated the ACT model with a teammate. The robot completed the task at 132 of 143 positions in simulation overall and at 27 of 31 test positions held out from training. On November 1, 2026, the physical robot completed its first full run without human intervention: picking up the object, carrying and placing it, and returning to its starting pose.
 
+<details>
+<summary>국문 소개</summary>
+
+차세대소자공학 석사를 마치고 2년 4개월 동안 광소자 패키징을 연구했습니다. 이후 웹서비스를 3년 9개월 기획했고, 풀스택 웹 개발팀장으로 1년 4개월 일했습니다.
+
+동국대 DAPIER Physical AI 과정의 4인 팀 프로젝트 SWEEPICK에서는 시뮬레이션 학습 데이터 제작과 실물 로봇 통합을 맡았습니다. 이동 베이스와 양팔을 ROS 2로 연동했고, ACT 모델은 팀원과 함께 개발하고 평가했습니다. 시뮬레이션에서는 143곳 중 132곳에서 작업을 완료했습니다. 학습에 쓰지 않은 Test 위치에서는 31곳 중 27곳에서 완료했습니다. 2026년 11월 1일에는 실물 로봇이 사람 개입 없이 집기부터 운반·놓기와 복귀까지 처음 마쳤습니다.
+
+</details>
+
   🎓 Physical AI program (DAPIER Cohort 1), Dongguk University · 656 hours · Jul 6–Nov 4, 2026 · completed<br>
   🧹 [SWEEPICK](https://github.com/Alpenj/sweepick) (Aug–Nov 2026): Our four-person team built a low-cost mobile robot with two arms to clear objects from the floor. I also worked on domain randomization. We froze the epoch-30 checkpoint before evaluating it once per location across 80 grid points and 63 cell centers. On hardware, the grasp results were 7/10, 8/10 and 7/10 across three objects. [Evaluation setup](https://github.com/Alpenj/sweepick/blob/main/docs/CUSTOM_ACT_V1_KO.md).<br>
   🚗 [deepThinkCar](https://github.com/Alpenj/DAPIER/tree/main/mini-projects/deepThinkCar_mini): Added stop conditions and evaluated a candidate steering model. Steering MAE fell from 14.93° to 4.93° on the same split. I held off on using the model in the car because the evaluation was narrow.<br>
