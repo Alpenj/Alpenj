@@ -82,6 +82,7 @@ Windows bug fixes in widely used Python projects. I reproduce each bug on Korean
 | [semantic-router](https://github.com/aurelio-labs/semantic-router/pull/860) | Read and write router YAML/JSON files as UTF-8 | [![PR 860 status](https://img.shields.io/github/pulls/detail/state/aurelio-labs/semantic-router/860?style=flat&label=)](https://github.com/aurelio-labs/semantic-router/pull/860) |
 | [thonny](https://github.com/thonny/thonny/pull/3981) | Read `pyvenv.cfg` as UTF-8 so venvs under non-ASCII paths work on Windows | [![PR 3981 status](https://img.shields.io/github/pulls/detail/state/thonny/thonny/3981?style=flat&label=)](https://github.com/thonny/thonny/pull/3981) |
 | [ursina](https://github.com/pokepetter/ursina/pull/855) | Read `.obj` files as UTF-8 so non-ASCII material names keep their colors | [![PR 855 status](https://img.shields.io/github/pulls/detail/state/pokepetter/ursina/855?style=flat&label=)](https://github.com/pokepetter/ursina/pull/855) |
+| [Flexget](https://github.com/Flexget/Flexget/pull/5326) | Read template files as UTF-8 in the `flexget templates` command | [![PR 5326 status](https://img.shields.io/github/pulls/detail/state/Flexget/Flexget/5326?style=flat&label=)](https://github.com/Flexget/Flexget/pull/5326) |
 
 ---
 
