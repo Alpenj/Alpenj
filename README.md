@@ -24,7 +24,6 @@ For SWEEPICK, a four-person project in Dongguk University’s DAPIER Physical AI
   ⏱️ [SyncGuard](https://julianjeonresume.netlify.app/#project-syncguard): Checked timestamp alignment before training. On synthetic data with jitter and dropped samples, valid alignment rose from 33.6% to 98.2% and p95 skew fell from 46.7 to 3.3 ms.<br>
   🧭 [ROS 2 practice](https://github.com/Alpenj/DAPIER/tree/main/ros2-practice): Worked with URDF, TF, SLAM and Nav2 on Jazzy and diagnosed issues while migrating from Humble to Jazzy.<br>
   🏗️ [VERA](https://vera.builders/): interior/construction SCM platform built with coding agents in two weeks; LLM APIs with rule-based fallbacks and a Vitest/Playwright QA pipeline.<br>
-  ⚽ [soccerhelper](https://github.com/Alpenj/soccerhelper): web/mobile MVP for amateur football teams (Next.js · Expo · Supabase).<br>
   💼 Earlier work: full-stack web team lead (React/Next.js, Supabase, Playwright automation), freelance full-stack (NestJS, payments and webhooks, GitHub Actions, Docker/EC2), optical transceiver R&D.
 
 ---
