@@ -92,6 +92,8 @@ Windows bug fixes in widely used Python projects. I reproduce each bug on Korean
 | [thonny](https://github.com/thonny/thonny/pull/3981) | Read `pyvenv.cfg` as UTF-8 so venvs under non-ASCII paths work on Windows | [![PR 3981 status](https://img.shields.io/github/pulls/detail/state/thonny/thonny/3981?style=flat&label=)](https://github.com/thonny/thonny/pull/3981) |
 | [ursina](https://github.com/pokepetter/ursina/pull/855) | Read `.obj` files as UTF-8 so non-ASCII material names keep their colors | [![PR 855 status](https://img.shields.io/github/pulls/detail/state/pokepetter/ursina/855?style=flat&label=)](https://github.com/pokepetter/ursina/pull/855) |
 | [Flexget](https://github.com/Flexget/Flexget/pull/5326) | Read template files as UTF-8 in the `flexget templates` command | [![PR 5326 status](https://img.shields.io/github/pulls/detail/state/Flexget/Flexget/5326?style=flat&label=)](https://github.com/Flexget/Flexget/pull/5326) |
+| [ursina](https://github.com/pokepetter/ursina/pull/856) | Read `ursina_settings.py` as UTF-8 so settings with non-ASCII text load | [![PR 856 status](https://img.shields.io/github/pulls/detail/state/pokepetter/ursina/856?style=flat&label=)](https://github.com/pokepetter/ursina/pull/856) |
+| [syncplay](https://github.com/Syncplay/syncplay/pull/834) | Read and write playlist files (`.m3u8`, `.txt`) as UTF-8 | [![PR 834 status](https://img.shields.io/github/pulls/detail/state/Syncplay/syncplay/834?style=flat&label=)](https://github.com/Syncplay/syncplay/pull/834) |
 
 ---
 
