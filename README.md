@@ -16,6 +16,8 @@ For SWEEPICK, a four-person project in Dongguk University’s DAPIER Physical AI
 
 동국대 DAPIER Physical AI 과정의 4인 팀 프로젝트 SWEEPICK에서는 시뮬레이션 학습 데이터 제작과 실물 로봇 통합을 맡았습니다. 이동 베이스와 양팔을 ROS 2로 연동했고, ACT 모델은 팀원과 함께 개발하고 평가했습니다. 시뮬레이션에서는 143곳 중 132곳에서 작업을 완료했습니다. 학습에 쓰지 않은 Test 위치에서는 31곳 중 27곳에서 완료했습니다. 2026년 11월 1일에는 실물 로봇이 사람 개입 없이 집기부터 운반·놓기와 복귀까지 처음 마쳤습니다.
 
+회사 프로젝트 [VERA](https://vera.builders/)는 인테리어·건설 자재 관리 플랫폼입니다. AI 상담·자재·리스크 API를 만들고, AI가 응답하지 않을 때는 미리 정한 규칙으로 처리하도록 했습니다.
+
 </details>
 
   🎓 Physical AI program (DAPIER Cohort 1), Dongguk University · 656 hours · Jul 6–Nov 4, 2026 · completed<br>
@@ -23,7 +25,7 @@ For SWEEPICK, a four-person project in Dongguk University’s DAPIER Physical AI
   🚗 [deepThinkCar](https://github.com/Alpenj/DAPIER/tree/main/mini-projects/deepThinkCar_mini): Added stop conditions and evaluated a candidate steering model. Steering MAE fell from 14.93° to 4.93° on the same split. I held off on using the model in the car because the evaluation was narrow.<br>
   ⏱️ [SyncGuard](https://julianjeonresume.netlify.app/#project-syncguard): Checked timestamp alignment before training. On synthetic data with jitter and dropped samples, valid alignment rose from 33.6% to 98.2% and p95 skew fell from 46.7 to 3.3 ms.<br>
   🧭 [ROS 2 practice](https://github.com/Alpenj/DAPIER/tree/main/ros2-practice): Worked with URDF, TF, SLAM and Nav2 on Jazzy and diagnosed issues while migrating from Humble to Jazzy.<br>
-  🏗️ [VERA](https://vera.builders/): interior/construction SCM platform built with coding agents in two weeks; LLM APIs with rule-based fallbacks and a Vitest/Playwright QA pipeline.<br>
+  🏗️ [VERA](https://vera.builders/): a company project for managing materials in interior design and construction. Built it with coding agents in two weeks, including LLM APIs with rule-based fallbacks and a Vitest/Playwright QA pipeline.<br>
   💼 Earlier work: full-stack web team lead (React/Next.js, Supabase, Playwright automation), freelance full-stack (NestJS, payments and webhooks, GitHub Actions, Docker/EC2), optical transceiver R&D.
 
 ---
