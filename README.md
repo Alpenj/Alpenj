@@ -4,8 +4,8 @@
 
 ### 🤖 About Me
 
-#### Physical AI · Robotics software | Imitation-learning data · Simulation · Sim-to-Real | Python · C++ · ROS 2 · MuJoCo<br>
-After earning an M.S. in Advanced Device Technology, I spent two years and four months in optical-device packaging R&D. I then worked in web-service planning for three years and nine months and led a full-stack web development team for one year and four months.
+#### Robot Software · Hardware Integration · Web Development and Automation<br>
+After earning a Master of Engineering (M.Eng.) in Advanced Device Technology, I spent two years and four months in optical-device packaging R&D. I then worked in web-service planning for three years and nine months and led a full-stack web development team for one year and four months.
 
 For SWEEPICK, a four-person project in Dongguk University’s DAPIER Physical AI program, I was responsible for generating simulation training data and integrating the physical robot. I connected the mobile base and both arms through ROS 2 and developed and evaluated the ACT model with a teammate. The robot completed the task at 132 of 143 positions in simulation overall and at 27 of 31 test positions held out from training. On November 1, 2026, the physical robot completed its first full run without human intervention: picking up the object, carrying and placing it, and returning to its starting pose.
 
@@ -21,12 +21,12 @@ For SWEEPICK, a four-person project in Dongguk University’s DAPIER Physical AI
 </details>
 
   🎓 Physical AI program (DAPIER Cohort 1), Dongguk University · 656 hours · Jul 6–Nov 4, 2026 · completed<br>
-  🧹 [SWEEPICK](https://github.com/Alpenj/sweepick) (Aug–Nov 2026): Our four-person team built a low-cost mobile robot with two arms to clear objects from the floor. I also worked on domain randomization. We froze the epoch-30 checkpoint before evaluating it once per location across 80 grid points and 63 cell centers. On hardware, the grasp results were 7/10, 8/10 and 7/10 across three objects. [Evaluation setup](https://github.com/Alpenj/sweepick/blob/main/docs/CUSTOM_ACT_V1_KO.md).<br>
+  🧹 [SWEEPICK](https://github.com/Alpenj/sweepick) (Aug–Nov 2026): Our four-person team built a low-cost mobile robot with two arms to clear objects from the floor. I used RoboTwin to generate demonstrations at 143 positions and kept 113 successful trajectories. I set up the real workspace in Isaac Sim to try Sim-to-Real transfer. We froze the epoch-30 checkpoint before evaluating it once per location across 80 grid points and 63 cell centers. On hardware, the grasp results were 7/10, 8/10 and 7/10 across three objects. [Evaluation setup](https://github.com/Alpenj/sweepick/blob/main/docs/CUSTOM_ACT_V1_KO.md).<br>
   🚗 [deepThinkCar](https://github.com/Alpenj/DAPIER/tree/main/mini-projects/deepThinkCar_mini): Added stop conditions and evaluated a candidate steering model. Steering MAE fell from 14.93° to 4.93° on the same split. I held off on using the model in the car because the evaluation was narrow.<br>
   ⏱️ [SyncGuard](https://julianjeonresume.netlify.app/#project-syncguard): Checked timestamp alignment before training. On synthetic data with jitter and dropped samples, valid alignment rose from 33.6% to 98.2% and p95 skew fell from 46.7 to 3.3 ms.<br>
   🧭 [ROS 2 practice](https://github.com/Alpenj/DAPIER/tree/main/ros2-practice): Worked with URDF, TF, SLAM and Nav2 on Jazzy and diagnosed issues while migrating from Humble to Jazzy.<br>
   🏗️ [VERA](https://vera.builders/): a company project for managing materials in interior design and construction. Built it with coding agents in two weeks, including LLM APIs with rule-based fallbacks and a Vitest/Playwright QA pipeline.<br>
-  💼 Earlier work: full-stack web team lead (React/Next.js, Supabase, Playwright automation), freelance full-stack (NestJS, payments and webhooks, GitHub Actions, Docker/EC2), optical transceiver R&D.
+  💼 Earlier work: led full-stack development and workflow automation with React/Next.js, Supabase and Playwright, planned web services, and worked in optical transceiver R&D.
 
 ---
 
@@ -54,11 +54,11 @@ For SWEEPICK, a four-person project in Dongguk University’s DAPIER Physical AI
 
 ---
 
-### 🧭 Now & Next
+### 🧭 Work and Tools
 
 | Topic | Details |
 |---|---|
-| 📍 | Korea · completed the Physical AI program on Nov 4, 2026 · looking for robotics software roles in imitation learning, simulation, Sim-to-Real and robot integration |
+| 📍 | Korea · completed Dongguk University’s DAPIER Physical AI program on Nov 4, 2026 |
 | 🔧 | Hands-on: Python, C++, ROS 2 (topics, TF, URDF/RViz), Nav2 basics, MuJoCo, Isaac Sim, RoboTwin, LeRobot / ACT, PyTorch, OpenCV, Linux |
 | 🧪 | Recent work: dual-arm ACT data and evaluation, Sim-to-Real hand-off on SO-101 arms, ROS 2 base↔arm interface |
 | 🤖 | I give Claude Code and Codex task specs and acceptance criteria, then verify the code with tests. I also build LLM features with rule-based fallbacks and agents for personal automation. |
