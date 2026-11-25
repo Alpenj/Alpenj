@@ -102,6 +102,7 @@ I fix Python projects that run into encoding and file-handling bugs on Windows. 
 | [ursina](https://github.com/pokepetter/ursina/pull/856) | Read `ursina_settings.py` as UTF-8 so settings with non-ASCII text load | [![PR 856 status](https://img.shields.io/github/pulls/detail/state/pokepetter/ursina/856?style=flat&label=)](https://github.com/pokepetter/ursina/pull/856) |
 | [syncplay](https://github.com/Syncplay/syncplay/pull/834) | Read and write playlist files (`.m3u8`, `.txt`) as UTF-8 | [![PR 834 status](https://img.shields.io/github/pulls/detail/state/Syncplay/syncplay/834?style=flat&label=)](https://github.com/Syncplay/syncplay/pull/834) |
 | [OpenShot](https://github.com/OpenShot/openshot-qt/pull/6266) | Read EDL files as UTF-8 when importing, matching the EDL export | [![PR 6266 status](https://img.shields.io/github/pulls/detail/state/OpenShot/openshot-qt/6266?style=flat&label=)](https://github.com/OpenShot/openshot-qt/pull/6266) |
+| [cmd2](https://github.com/python-cmd2/cmd2/pull/1836) | Write `history -o`/`-e` files and read `run_pyscript` scripts as UTF-8 | [![PR 1836 status](https://img.shields.io/github/pulls/detail/state/python-cmd2/cmd2/1836?style=flat&label=)](https://github.com/python-cmd2/cmd2/pull/1836) |
 
 ---
 
