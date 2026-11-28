@@ -105,6 +105,7 @@ I fix Python projects that run into encoding and file-handling bugs on Windows. 
 | [cmd2](https://github.com/python-cmd2/cmd2/pull/1836) | Write `history -o`/`-e` files and read `run_pyscript` scripts as UTF-8 | [![PR 1836 status](https://img.shields.io/github/pulls/detail/state/python-cmd2/cmd2/1836?style=flat&label=)](https://github.com/python-cmd2/cmd2/pull/1836) |
 | [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter/pull/2894) | Read theme JSON files as UTF-8 | [![PR 2894 status](https://img.shields.io/github/pulls/detail/state/TomSchimansky/CustomTkinter/2894?style=flat&label=)](https://github.com/TomSchimansky/CustomTkinter/pull/2894) |
 | [ComicTagger](https://github.com/comictagger/comictagger/pull/860) | Read the `--metadata @file` YAML as UTF-8 | [![PR 860 status](https://img.shields.io/github/pulls/detail/state/comictagger/comictagger/860?style=flat&label=)](https://github.com/comictagger/comictagger/pull/860) |
+| [OnionShare](https://github.com/onionshare/onionshare/pull/2184) | Save received text messages as UTF-8 | [![PR 2184 status](https://img.shields.io/github/pulls/detail/state/onionshare/onionshare/2184?style=flat&label=)](https://github.com/onionshare/onionshare/pull/2184) |
 
 ---
 
